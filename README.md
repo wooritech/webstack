@@ -1,4 +1,4 @@
-## ⚠️ 본 저장소는 사용하지 . [wooritech/template](https://github.com/wooritech/template) 저장소를 이용해 주세요.
+## ⚠️ 본 저장소는 사용하지 않습니다. [wooritech/template](https://github.com/wooritech/template) 저장소를 이용해 주세요.
 
 # 우리테크 웹스택
 
